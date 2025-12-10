@@ -3,7 +3,7 @@
 
 ---
 
-🎓 Actualmente finalizando el **2º año de la carrera Analista de Sistemas**.  
+🎓 Actualmente **3º año en curso de la carrera Analista de Sistemas**.  
 📚 Formado en desarrollo **Frontend con JavaScript** (Talento Tech - GCBA).  
 🧠 Conocimientos en **SQL Server, Python y Django** adquiridos en la facultad.
 
